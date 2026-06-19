@@ -1,6 +1,6 @@
-# Visuals
+# Social Figures
 
-A collection of data visualizations built in Jupyter notebooks with matplotlib.
+Data visualizations on social, political, and economic topics, built with Jupyter and matplotlib.
 
 ## Charts
 
