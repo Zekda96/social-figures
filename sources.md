@@ -35,6 +35,16 @@
 - **Institute for Policy Studies / Patriotic Millionaires — "High Flyers 2023" (Apr 2023)** — median net worth of full private jet owners: $190M; fractional owners: $140M. Jet owners represent 0.0008% of global population.
   https://ips-dc.org/report-high-flyers-2023/
 
+## Media Acquisitions
+
+- **The Washington Post / CNN Money (Aug 2013)** — Jeff Bezos acquired The Washington Post for $250 million in cash, as a personal purchase (not through Amazon). Deal closed October 1, 2013.
+  https://money.cnn.com/2013/08/05/news/companies/washington-post-bezos/index.html
+
+## Campaign Finance
+
+- **OpenSecrets — Summary data for Donald Trump, 2024 cycle** — total receipts for Donald J. Trump for President 2024 committee: $495,853,270 (2023–2024 election cycle, FEC data).
+  https://www.opensecrets.org/2024-presidential-race/donald-trump/candidate?id=N00023864
+
 ## Billionaire Wealth
 
 - **Bloomberg Billionaires Index** — real-time net worth estimates for Bezos, Page, Brin, Ellison, Zuckerberg, Dell, Musk (current and election-day Nov 5, 2024 values). https://www.bloomberg.com/billionaires/
