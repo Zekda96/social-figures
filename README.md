@@ -4,7 +4,7 @@ A collection of data visualizations built in Jupyter notebooks with matplotlib.
 
 ## Charts
 
-### U.S. Billionaire Wealth: Scale in Context (`billionaire_wealth_chart_v*.ipynb`)
+### 1. U.S. Billionaire Wealth: Scale in Context (`billionaire_wealth_chart_v*.ipynb`)
 
 A five-slide sequence that builds up from household income to Elon Musk, zooming the x-axis out at each step so the previous tier shrinks toward zero. The shrinking is the point.
 
@@ -17,6 +17,14 @@ Each slide adds one group:
 
 All values in USD billions. Sources documented in [`sources.md`](sources.md).
 
+### Slides
+
+![Scale: below $10 million](graphs/01_below_10m.png)
+![Adding the $10M–$500M tier](graphs/02_mid_tier.png)
+![Adding the $1B–$10B tier](graphs/03_1b_10b.png)
+![Adding multi-billionaires](graphs/04_multi_billionaires.png)
+![The full picture: adding Elon Musk](graphs/05_full_picture.png)
+
 ## Setup
 
 ```bash
@@ -25,10 +33,4 @@ python -m venv .venv
 pip install jupyter matplotlib numpy
 ```
 
-## Iteration workflow
-
-1. Copy the previous notebook: `cp billionaire_wealth_chart_v4.ipynb billionaire_wealth_chart_v5.ipynb`
-2. Edit the new notebook and run all cells
-3. Commit with outputs included
-
-Notebooks are committed **with outputs** — the embedded chart is the record. PNG/JPG exports are gitignored.
+Running the notebook generates `billionaire_wealth_slides.pdf` with all 5 slides.
