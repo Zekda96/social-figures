@@ -22,10 +22,18 @@
 - **BLS — Usual Weekly Earnings by Educational Attainment, 2024 (Table 37b)** — individual median weekly earnings: master's ~$1,930/wk (~$100K/yr), doctoral ~$2,040/wk (~$106K/yr), professional ~$2,129/wk (~$111K/yr).
   https://www.bls.gov/cps/cpsaat37b.pdf
 
+## Executive Compensation
+
+- **Glassdoor — Enterprise Sales Executive Salary (2025)** — average annual salary $265,929 in the United States; top earners (90th percentile) up to $451,405; typical range $204,837–$354,527.
+  https://www.glassdoor.com/Salaries/enterprise-sales-executive-salary-SRCH_KO0,26.htm
+
 ## Net Worth Reference Points
 
 - **Federal Reserve — Changes in U.S. Family Finances from 2019 to 2022 (Survey of Consumer Finances, Oct 2023)** — median US household net worth $192,700; college-degree households $464,600; no-HS-diploma households $38,100.
   https://www.federalreserve.gov/publications/october-2023-changes-in-us-family-finances-from-2019-to-2022.htm
+
+- **Institute for Policy Studies / Patriotic Millionaires — "High Flyers 2023" (Apr 2023)** — median net worth of full private jet owners: $190M; fractional owners: $140M. Jet owners represent 0.0008% of global population.
+  https://ips-dc.org/report-high-flyers-2023/
 
 ## Billionaire Wealth
 

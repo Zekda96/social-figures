@@ -8,6 +8,11 @@ Each figure lives as a versioned Jupyter notebook (`*_v1.ipynb`, `*_v2.ipynb`, .
 2. Make changes and run all cells
 3. Commit the new notebook with outputs included
 
+## Bar label conventions
+
+- Append `(annual pay)` or `(annual income)` when the value is a flow, not a stock — e.g. `"S&P 500 median CEO (annual pay)"`.
+- Do not append `(net worth)` — net worth is the default assumption for unlabelled entries.
+
 ## What's tracked / ignored
 
 - `.ipynb` files — tracked **with outputs** (this is intentional; the embedded visual is the record)
