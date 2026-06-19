@@ -44,4 +44,4 @@
 | Michael Jordan | $4.3B | Forbes 2026 | Wealth grew after selling majority stake in Charlotte Hornets for ~$3B in 2023 |
 | Taylor Swift | $2.0B | Forbes Jun 2026 | Reached $1.6B in Aug 2025, crossed $2B by Jun 2026 driven by Eras Tour |
 | Cristiano Ronaldo (CR7) | $1.2B | Forbes/Bloomberg ~2025 | Crossed $1B threshold around mid-2025 with Al Nassr contract extension |
-| Lionel Messi | $1.0B | Forbes ~2025 | Forbes estimated $850M in 2025, ~$1.1B by Jun 2026; $1.0B used as midpoint |
+| Kim Kardashian | $1.9B | Forbes/multiple estimates Jun 2026 | Driven by ~1/3 stake in Skims (valued at $5B after $225M raise in 2025); estimates range $1.7B–$1.95B across sources |
